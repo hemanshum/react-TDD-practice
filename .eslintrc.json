@@ -19,7 +19,7 @@
   //   "node": true,
   //   "es6": true,
   //   "jest": true
-  // },
+  // }
   // "rules": {
   //   "testing-library/await-async-query": "error",
   //   "testing-library/no-await-sync-query": "error",
